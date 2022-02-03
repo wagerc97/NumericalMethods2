@@ -9,3 +9,4 @@ Here are some implementations of the algorithms discussed
 * SVD - and rank defficient matrix
 * pagerank - the famous pagerank alogithm in action
 * poweriteration - small example of diverging iteration
+* LinearFixedPointIteration - comparison 
