@@ -5,8 +5,8 @@ In this lecture we covered numerical iterative approaches to solve large (sparse
 Here are some implementations of the algorithms discussed
 
 ### Table of content
-* power_iteration+rayleigh_quotient - investigate convergence
-* SVD - and rank defficient matrix
-* pagerank - the famous pagerank alogithm in action
-* poweriteration - small example of diverging iteration
-* LinearFixedPointIteration - comparison 
+* [Power Iteration & Rayleigh Quotient](./power_iteration+rayleigh_quotient.ipynb) - investigate convergence
+* [SVD](./SVD.ipynb) - Singular Value Decomposition and rank defficient matrix
+* [Pagerank](./pagerank.ipynb) - the famous pagerank alogithm in action
+* [Power Iteration](./poweriteration.ipynb) - small example of diverging iteration
+* [Linear Fixed-point Iteration](./LinearFixedPointIteration.ipynb) - comparison of two similar FPIs
