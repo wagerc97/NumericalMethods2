@@ -8,5 +8,5 @@ Here are some implementations of the algorithms discussed
 * [Power Iteration & Rayleigh Quotient](./power_iteration+rayleigh_quotient.ipynb) - investigate convergence
 * [SVD](./SVD.ipynb) - Singular Value Decomposition and rank defficient matrix
 * [Pagerank](./pagerank.ipynb) - the famous pagerank alogithm in action
-* [Power Iteration](./poweriteration.py) - small example of diverging iteration
+* [Power Iteration](./poweriteration.py) - small example of diverging iteration (Python script)
 * [Linear Fixed-point Iteration](./LinearFixedPointIteration.ipynb) - comparison of two similar FPIs
